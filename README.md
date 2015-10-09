@@ -1,3 +1,3 @@
 # TriangleProblem
 
-Several solutions for solving the Triangle problem
+Recursive, brute force and memoized solutions for solving the Triangle problem
