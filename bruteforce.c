@@ -28,7 +28,7 @@ int ipow(int base, int exp)
 /*
  For each bit sequence from 0 to the max number, find the
  sum along that path.
- */ 
+ */
 void getBestPath(int numBits, int size, int triangle[][size])
 {
     int bitArray[numBits];  //Store each binary count in an array
